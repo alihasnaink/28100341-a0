@@ -1,4 +1,5 @@
-# ATML - Advanced Topics in Machine Learning
+# ATML PA0 - Advanced Topics in Machine Learning
+28100341 - Ali Hasnain
 
 This repository contains a collection of Jupyter Notebooks demonstrating various advanced concepts in machine learning, deep learning, and computer vision. Each notebook is independently reproducible and explores specific architectures, training paradigms, and analytical techniques.
 
