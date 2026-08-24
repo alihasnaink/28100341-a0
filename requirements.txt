@@ -1,0 +1,14 @@
+adjustText
+ipython
+matplotlib
+numpy
+pandas
+Pillow
+scikit-learn
+scipy
+torch
+torchvision
+tqdm
+transformers
+umap-learn
+git+https://github.com/openai/CLIP.git
